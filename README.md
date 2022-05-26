@@ -14,7 +14,7 @@
  <a href="https://wa.me/+919096095688"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"/></a>
  <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"/></a>
 
- https://telegram.me/YourUsername
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beingvishalt)
 <!--
