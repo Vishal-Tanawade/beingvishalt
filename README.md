@@ -1,8 +1,31 @@
 <h1 align="center">Hi 👋, I'm Vishal Tanawade</h1>
 
-#                     💻  Computer Engineer
+<h2 align="left"> 💻  Computer Engineer</h2>
  
-### 👨‍💻 Intern at Cognizant | 🧑‍🎓 Student at AISSMS College of Engineering Pune-1
+### 👨‍💻 Intern at Cognizant  (.Net FSE)
+### 🧑‍🎓 Student at AISSMS College of Engineering Pune-1
+### 🌏 Pune
+
+# <samp>My Tech Stack </samp>
+
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://martinchavez.github.io/Assets/Logos/csharp.svg" width="50" title="C#"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" /></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="CSS3"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" /></a> <br><br>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" width="100" title="MySQL" /></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server" width="150" height="30" title="Microsoft Sql Server" /></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://img.shields.io/badge/-React-black?style=flat&logo=React" width="100" title="React" /></a>
+
+
+
+
+
+[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/Santhoshkumard11&logoColor=522D91)](https://github.com/Santhoshkumard11)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/Santhoshkumard11&logoColor=007ACC)](https://github.com/Santhoshkumard11)
+
 
 ## Connect With Me
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" title="Github"/></a>
