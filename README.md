@@ -13,7 +13,7 @@
  <a href="https://www.facebook.com/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" title="Facebook"/></a>
  <a href="https://wa.me/+919096095688"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"/></a>
  <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"/></a>
-<a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="125" title="Snapchat"/></a>
+<a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="100" title="Snapchat"/></a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beingvishalt)
