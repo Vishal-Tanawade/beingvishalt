@@ -28,15 +28,15 @@
 
 
 ## Connect With Me
-<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" title="Github"/></a>
- <a href="https://www.linkedin.com/in/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"/></a>
- <a href="mailto:beingvishalt@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="E-mail"/></a>
+<a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="30" title="Github"/></a>
+ <a href="https://www.linkedin.com/in/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn"/></a>
+ <a href="mailto:beingvishalt@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="30" title="E-mail"/></a>
 ## Social Media
-<a href="https://www.instagram.com/vishaltanawade"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="100" title="Instagram" /></a>
- <a href="https://www.facebook.com/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" title="Facebook"/></a>
- <a href="https://wa.me/+919096095688"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"/></a>
- <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"/></a>
-<a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="100" title="Snapchat"/></a>
+<a href="https://www.instagram.com/vishaltanawade"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="30" title="Instagram" /></a>
+ <a href="https://www.facebook.com/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Facebook"/></a>
+ <a href="https://wa.me/+919096095688"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="30" title="WhatsApp"/></a>
+ <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="30" title="Telegram"/></a>
+<a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="30" title="Snapchat"/></a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beingvishalt)
