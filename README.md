@@ -27,6 +27,18 @@
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/beingvishalt&logoColor=007ACC)](https://github.com/beingvishalt)
 
 
+
+
+
+
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingvishalt&" alt="beingvishalt" width="300" height="350"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=beingvishalt&show_icons=true&locale=en" alt="beingvishalt" width="300" height="350"/>
+</p>
+
+<p></p>
+
 ## Connect With Me
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="30" title="Github"/></a>
  <a href="https://www.linkedin.com/in/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn"/></a>
