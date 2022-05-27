@@ -2,9 +2,9 @@
 
 <h2 align="left"> 💻  Computer Engineer</h2>
  
-### 👨‍💻 Intern at Cognizant  (.Net FSE)
-### 🧑‍🎓 Student at AISSMS College of Engineering Pune-1
-### 🌏 Pune
+### 👨‍💻 Intern at <a href="https://www.cognizant.com/in/en" >Cognizant </a> (.Net FSE)
+### 🧑‍🎓 Student at <a href="https://aissmscoe.com/" > AISSMS College of Engineering</a>,Pune-1
+### 🌏 <a href="https://goo.gl/maps/Vakp5erSEkL41zPFA" > Pune </a>
 <br>
 
 # My Tech Stack 
