@@ -23,8 +23,8 @@
 
 
 
-[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/Santhoshkumard11&logoColor=522D91)](https://github.com/Santhoshkumard11)
-[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/Santhoshkumard11&logoColor=007ACC)](https://github.com/Santhoshkumard11)
+[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/beingvishalt&logoColor=522D91)](https://github.com/beingvishalt)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/beingvishalt&logoColor=007ACC)](https://github.com/beingvishalt)
 
 
 ## Connect With Me
