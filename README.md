@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vishal Tanawade</h1>
+<h1 align="center" ;>Hi 👋, I'm Vishal Tanawade</h1>
 
 <h2 align="left"> 💻  Computer Engineer</h2>
  
 ### 👨‍💻 Intern at Cognizant  (.Net FSE)
 ### 🧑‍🎓 Student at AISSMS College of Engineering Pune-1
 ### 🌏 Pune
+<br>
 
-# <samp>My Tech Stack </samp>
-
+# My Tech Stack 
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python"/></a>
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java"/></a>
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/></a>
@@ -20,15 +20,20 @@
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://img.shields.io/badge/-React-black?style=flat&logo=React" width="100" title="React" /></a>
 
 
-
-
+<br>
 
 [![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/beingvishalt&logoColor=522D91)](https://github.com/beingvishalt)
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/beingvishalt&logoColor=007ACC)](https://github.com/beingvishalt)
 
+<br>
 
-
-
+# Certifications
+###  1. The Joy of Computing using Python - NPTEL
+###  2. Software Engineering 101: Plan and Execute Better Software - Udemy
+###  3. Agile Fundamentals Including Scrum and Kanban - 2021 - Udemy
+###  4. Relational Database Design - Udemy
+###  5. Responsive Web Design: HTML5 + CSS3 for Entrepreneurs 2018 - Udemy
+###  6. JavaScript Basics for Beginners - Udemy
 
 
 
@@ -49,6 +54,8 @@
  <a href="https://wa.me/+919096095688"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="30" title="WhatsApp"/></a>
  <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="30" title="Telegram"/></a>
 <a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="30" title="Snapchat"/></a>
+
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beingvishalt)
