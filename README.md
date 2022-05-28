@@ -27,7 +27,7 @@
 
 <br>
 
-# Certifications
+# Certifications 📜
 ###  1. The Joy of Computing using Python - NPTEL
 ###  2. Software Engineering 101: Plan and Execute Better Software - Udemy
 ###  3. Agile Fundamentals Including Scrum and Kanban - 2021 - Udemy
