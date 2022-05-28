@@ -42,7 +42,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=beingvishalt&show_icons=true&locale=en" alt="beingvishalt" width="300" height="350"/>
 </p>
 
-<p></p>
+ 
+##  Spotify Playing <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/musical-note_1f3b5.png" width="25">
+
+ [![Spotify](https://novatorem-two-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31jbk2ezwi4buineqcvjb5tarzxm?si=03f9f987baf5479a)
+
+
+
 
 ## Connect With Me
 <a href="https://github.com/beingvishalt?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="30" title="Github"/></a>
@@ -59,17 +65,3 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beingvishalt)
-<!--
-**beingvishalt/beingvishalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
