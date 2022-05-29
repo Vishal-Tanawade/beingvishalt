@@ -45,9 +45,8 @@
  
 ##  Spotify Playing <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/musical-note_1f3b5.png" width="25">
 
- [![Spotify](https://novatorem-two-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31jbk2ezwi4buineqcvjb5tarzxm?si=03f9f987baf5479a)
-
-
+ 
+[![Spotify](https://spotify-playing-git-master-beingvishalt.vercel.app/api/spotify)](https://open.spotify.com/user/31jbk2ezwi4buineqcvjb5tarzxm?si=03f9f987baf5479a)
 
 
 ## Connect With Me
