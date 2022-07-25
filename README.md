@@ -58,7 +58,6 @@
 ## Social Media
 <a href="https://www.instagram.com/vishaltanawade"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="30" title="Instagram" /></a>
  <a href="https://www.facebook.com/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Facebook"/></a>
-
  <a href="https://telegram.me/beingvishalt"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="30" title="Telegram"/></a>
 <a href="https://www.snapchat.com/add/vishaldt1?share_id=J1saN7ctJC4&locale=en-IN"><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="30" title="Snapchat"/></a>
 
