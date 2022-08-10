@@ -3,7 +3,6 @@
 <h2 align="left"> 💻  Computer Engineer</h2>
  
 
-### 🧑‍🎓 Student at <a href="https://aissmscoe.com/" > AISSMS College of Engineering</a>,Pune-1
 ### 🌏 <a href="https://goo.gl/maps/Vakp5erSEkL41zPFA" > Pune </a>
 <br>
 
